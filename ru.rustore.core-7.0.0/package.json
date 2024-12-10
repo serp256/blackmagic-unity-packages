@@ -1,0 +1,31 @@
+{
+  "name": "ru.rustore.core",
+  "version": "7.0.0",
+  "displayName": "RuStore Core",
+  "description": "The common part of RuStore SDK plugins",
+  "unity": "2022.3",
+  "documentationUrl": "https://www.rustore.ru/help/sdk",
+  "changelogUrl": "https://gitflic.ru/project/rustore/unity-rustore-core-sdk/blob/?file=CHANGELOG.md",
+  "licensesUrl": "https://gitflic.ru/project/rustore/unity-rustore-core-sdk/blob?file=MIT-LICENSE.txt",
+  "keywords": [
+    "rustore",
+    "core"
+  ],
+  "author": {
+    "name": "RuStore",
+    "email": "support@rustore.ru",
+    "url": "https://www.rustore.ru/developer"
+  },
+  "samples": [
+    {
+      "displayName": "External Dependency Manager",
+      "description": "External Dependency Manager for Unity (EDM4U) can be used by any Unity plugin that requires Android specific libraries (e.g. AARs).",
+      "path": "Samples~/ExternalDependencyManager"
+    }
+  ],
+  "repository": {
+    "url": "https://gitflic.ru/project/rustore/unity-rustore-core-sdk.git",
+    "type": "git",
+    "revision": "f93ea1f6db5a0c2ee1d8113bc2e9475558f982e1"
+  }
+}

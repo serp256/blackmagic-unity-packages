@@ -1,0 +1,35 @@
+{
+  "name": "ru.rustore.billing",
+  "version": "7.0.0",
+  "displayName": "RuStore Billing",
+  "description": "RuStore SDK for in-app payments",
+  "unity": "2022.3",
+  "documentationUrl": "https://www.rustore.ru/help/sdk/payments/unity",
+  "changelogUrl": "https://gitflic.ru/project/rustore/unity-rustore-billing-sdk/blob/?file=ru.rustore.billing%2FCHANGELOG.md",
+  "licensesUrl": "https://gitflic.ru/project/rustore/unity-rustore-billing-sdk/blob?file=MIT-LICENSE.txt",
+  "keywords": [
+    "rustore",
+    "billing",
+    "payments"
+  ],
+  "dependencies": {
+    "ru.rustore.core": "7.0.0"
+  },
+  "author": {
+    "name": "RuStore",
+    "email": "support@rustore.ru",
+    "url": "https://www.rustore.ru/developer"
+  },
+  "samples": [
+    {
+      "displayName": "RuStore Billing Example",
+      "description": "Contains sample RuStore shop",
+      "path": "Samples~/RuStoreBillingExample"
+    }
+  ],
+  "repository": {
+    "url": "https://gitflic.ru/project/rustore/unity-rustore-billing-sdk.git",
+    "type": "git",
+    "revision": "659c0062c77c6d8fa742e6a08e0aeb5d9478c0b3"
+  }
+}
