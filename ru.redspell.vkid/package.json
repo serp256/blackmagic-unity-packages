@@ -1,0 +1,11 @@
+{
+    "name": "ru.redspell.vkid",
+    "displayName": "VKID Login",
+    "description": "",
+    "version": "0.0.1",
+    "unity": "2022.3",
+    "author": {
+        "name": "BlackMagic Corporation"
+    },
+    "dependencies": {}
+}

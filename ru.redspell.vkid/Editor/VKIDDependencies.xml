@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dependencies>
+
+    <androidPackages>
+        <repositories>
+            <repository>https://artifactory-external.vkpartner.ru/artifactory/vkid-sdk-android/</repository>
+        </repositories>
+        <androidPackage spec="com.vk.id:vkid:2.2.1"/>
+    </androidPackages>
+
+</dependencies>
