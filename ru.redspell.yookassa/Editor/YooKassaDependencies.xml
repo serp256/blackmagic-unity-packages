@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dependencies>
+
+    <androidPackages>
+        <androidPackage spec="org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3"/>
+        <androidPackage spec="ru.yoomoney.sdk.kassa.payments:yookassa-android-sdk:7.0.1"/>
+        <repositories>
+            <repository>https://developer.huawei.com/repo/</repository>
+        </repositories>
+    </androidPackages>
+
+</dependencies>
