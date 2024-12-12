@@ -1,0 +1,11 @@
+{
+    "name": "com.google.firebase.analitycs",
+    "displayName": "Firebase Analytics",
+    "description": "",
+    "version": "12.2.0",
+    "unity": "2022.3",
+    "author": {
+        "name": "Google LLC"
+    },
+    "dependencies": {}
+}
