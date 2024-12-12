@@ -1,10 +1,11 @@
 {
-    "name": "YooKassa",
+    "name": "YandexPay",
     "rootNamespace": "",
-    "references": [
-        "GUID:60bfecf5cb232594891bc622f40d6bed"
+    "references": [],
+    "includePlatforms": [
+        "Android",
+        "Editor"
     ],
-    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
