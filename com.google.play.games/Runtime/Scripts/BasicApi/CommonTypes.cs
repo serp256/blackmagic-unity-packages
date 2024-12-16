@@ -202,4 +202,4 @@ namespace GooglePlayGames.BasicApi
             return ((int) status) > 0;
         }
     }
-}     
+}
