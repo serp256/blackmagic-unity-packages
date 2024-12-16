@@ -17,7 +17,7 @@ FirebaseApp iOS and Android Dependencies.
     </androidPackage>
     <androidPackage spec="com.google.firebase:firebase-app-unity:12.2.0">
       <repositories>
-        <repository>Packages/com.google.firebase.analytics/m2repository</repository>
+        <repository>Packages/com.google.firebase.analytics/Editor/m2repository</repository>
       </repositories>
     </androidPackage>
   </androidPackages>
